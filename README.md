@@ -1,6 +1,7 @@
 # Good day
 My first ever repository build v1.0 Aug-19-2018
-#revisited April 25 2022 11:08PM ET
+
+# revisited April 25 2022 11:08PM ET
 In healthcare for ~3 years and both developing and driving real solutions that make a difference and contribution to human lives.
 On a mission to become a Python SME (firstmilestone by June 30 2022;second milestone by Septemmber 30 2022; continuous education ... forever)
 
